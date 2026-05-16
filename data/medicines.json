@@ -1,0 +1,23 @@
+[ {
+  "id" : "2f6e4635-3d50-446d-9666-b828fe3b3432",
+  "createdAt" : "2026-05-16T11:40:15.356841600",
+  "updatedAt" : "2026-05-16T11:40:15.356841600",
+  "name" : "Amoxicillin 250mg",
+  "description" : null,
+  "price" : 450.0,
+  "stock" : 48,
+  "category" : "Antibiotics",
+  "requiresPrescription" : true,
+  "expiryDate" : "2026-06-30"
+}, {
+  "id" : "537cee6f-b218-4d0b-a9a4-8debd5c0c577",
+  "createdAt" : "2026-05-16T11:40:15.356841600",
+  "updatedAt" : "2026-05-16T11:40:15.356841600",
+  "name" : "Paracetamol 500mg",
+  "description" : null,
+  "price" : 150.0,
+  "stock" : 77,
+  "category" : "Painkillers",
+  "requiresPrescription" : false,
+  "expiryDate" : "2026-12-31"
+} ]
