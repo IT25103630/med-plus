@@ -120,7 +120,7 @@ This document outlines the division of tasks for a 6 person development team bas
 
 ---
 
-# Common part
+## 📢 7. Common parts
 *   `MedPlusApplication.java` >> Main class
 *   `BaseModel.java` >> Common class for all some model classes (Abstract class)
 
